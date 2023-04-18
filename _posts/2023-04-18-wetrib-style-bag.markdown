@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dryrib style bag"
+title:  "Wetrib style bag"
 date:   2023-04-18 9:40:00 -0600
 categories: [pattern, bag]
 ---
