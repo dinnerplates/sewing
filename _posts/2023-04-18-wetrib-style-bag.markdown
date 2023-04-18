@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dryrib style bag"
-date:   2023-04-18 9:40:00 -0700
+date:   2023-04-18 9:40:00 -0600
 categories: [pattern, bag]
 ---
 This is a bag based on the Dana Designs/Mystery Ranch wetrib bag. Its a more complicated design than the dryrib but a easy intermediate project.
