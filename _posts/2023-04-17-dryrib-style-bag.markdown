@@ -6,7 +6,7 @@ categories: [pattern, bag]
 ---
 This is a bag based on the Dana Designs dryrib bag. Its an interesting easy to sew pattern consisting of only two pieces.
 
-##### Materials
+### Materials
 - 1 49.5cm #5 zipper & 2 zipper pulls
 - 20 mm (optional for seam binding) grosgrain ribbon
 - 14 cm of 25 mm grosgrain ribbon
@@ -14,7 +14,7 @@ This is a bag based on the Dana Designs dryrib bag. Its an interesting easy to s
 - 1 single adjust buckle for 20mm webbing
 - 45 cm of 20 mm webbing
 
-##### Instructions
+### Instructions
 1. Sew dart on front right sides together.
 2. Cut two 7 cm peices of 20 mm or 25 mm grosgrain and fold in half. Baste to front where indicated.
 3. Cut zipper to 49.5 cm. 
