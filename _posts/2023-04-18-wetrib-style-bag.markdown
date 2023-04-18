@@ -6,7 +6,7 @@ categories: [pattern, bag]
 ---
 This is a bag based on the Dana Designs/Mystery Ranch wetrib bag. Its a more complicated design than the dryrib but a easy intermediate project.
 
-![Completed Bag](/images/wetrib/wetrib-complete.jpg)
+![Completed Bag]({{/images/wetrib/wetrib-complete.jpg | absolute_url }})
 
 ### Materials
 - 1 49.5cm #5 zipper & 2 zipper pulls
@@ -43,4 +43,5 @@ This is a bag based on the Dana Designs/Mystery Ranch wetrib bag. Its a more com
 
 
 [wetrib pattern pdf](https://github.com/dinnerplates/sewing/raw/main/patterns/wetrib.pdf)
+
 [discussion on reddit with pictures](https://www.reddit.com/r/myog/comments/12nbmkl/i_reverse_engineered_the_discontinued_mystery/?utm_source=share&utm_medium=web2x&context=3)
