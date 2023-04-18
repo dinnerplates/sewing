@@ -22,7 +22,7 @@ title: Sewing projects and other stuff
 email: 85454494+dinnerplates@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sewing patterns for outdoor bags and more MYOG type things.
-baseurl: "/sewing/" # the subpath of your site, e.g. /blog
+baseurl: "/sewing" # the subpath of your site, e.g. /blog
 url: "https://dinnerplates.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dinnerplates
 
